@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "https://raw.githubusercontent.com/user/repo/branch/plugin1.js",
-        "https://raw.githubusercontent.com/user/repo/branch/plugin2.cjs"
+        "https://raw.githubusercontent.com/kajedevid/dbku/refs/heads/main/plugins/sc.js"
     ]
 }
