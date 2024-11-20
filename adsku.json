@@ -1,9 +1,5 @@
 {
     "ads": [
-        {
-            "content": "Ini Ads!\nBot ini menggunakan source code https://github.com/kazedepid/whatsapp-bot",
-            "sendCount": 1,
-            "interval": 30000
-        }
+        
     ]
 }
