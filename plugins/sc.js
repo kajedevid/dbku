@@ -10,5 +10,4 @@ const cmd = {
     }
 }
 
-
-export { cmd }
+module.exports = cmd;
