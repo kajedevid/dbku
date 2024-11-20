@@ -1,8 +1,5 @@
 {
     "ads": [
         
-    ],
-    "plugins": [
-        "https://raw.githubusercontent.com/kajedevid/dbku/refs/heads/main/plugins/sc.js"
     ]
 }
