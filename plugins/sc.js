@@ -1,4 +1,4 @@
-export default {
+exports.cmd = {
     name: ['base'],
     command: ['base'],
     category: ['main'],
