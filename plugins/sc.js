@@ -1,4 +1,4 @@
-export const cmd = {
+const cmd = {
     name: ['base'],
     command: ['base'],
     category: ['main'],
@@ -6,6 +6,8 @@ export const cmd = {
         desc: 'Informasi skrip bot ini'
     },
     async start({ m }) {
-            m.reply('Bot Ini menggunakan base: https://github.com/kazedepid/whatsapp-bot')
+        m.reply('Bot Ini menggunakan base: https://github.com/kazedepid/whatsapp-bot')
     }
 }
+
+export default cmd
