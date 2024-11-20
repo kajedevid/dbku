@@ -1,4 +1,4 @@
-exports.cmd = {
+const cmd = {
     name: ['base'],
     command: ['base'],
     category: ['main'],
@@ -9,3 +9,6 @@ exports.cmd = {
         m.reply('Bot Ini menggunakan base: https://github.com/kazedepid/whatsapp-bot')
     }
 }
+
+
+export { cmd }
