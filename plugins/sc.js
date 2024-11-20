@@ -1,4 +1,4 @@
-const cmd = {
+export default {
     name: ['base'],
     command: ['base'],
     category: ['main'],
@@ -9,5 +9,3 @@ const cmd = {
         m.reply('Bot Ini menggunakan base: https://github.com/kazedepid/whatsapp-bot')
     }
 }
-
-export default cmd
